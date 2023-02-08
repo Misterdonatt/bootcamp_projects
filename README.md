@@ -39,4 +39,8 @@ Pokemon_API.ipynb - Using any API, retrieve data and build a data frame of the d
 
 machine_learning_python.ipynb - Practice building machine learning models with scikit-learn in Python
 
+# Dashboard
+
+Superstore Sale Analysis 2014-2017 https://lookerstudio.google.com/s/mFvqn7sxG5I
+
 # Badges : web credly.com
