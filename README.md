@@ -13,7 +13,7 @@ Hi there! These are my favourite projects/homeworks I have done in datarockie bo
 - Dashboard
 
 # SQL
-main.sql - Creating a small database of a restaurant containing of 5 dim tables and 1 fact table, also did some analyze on those, I do like this one the most
+[main.sql](https://replit.com/join/cmnjjlsmnh-natthaponsrihaw) - Creating a small database of a restaurant containing of 5 dim tables and 1 fact table, also did some analyze on those, I do like this one the most
 
 # R
 
