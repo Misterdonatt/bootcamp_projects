@@ -17,7 +17,7 @@ Hi there! These are my favourite projects/homeworks I have done in datarockie bo
 
 # R
 
-PaoYingChub.r - A scissor paper rock game using R fundamental.
+[PaoYingChub.r](https://replit.com/join/livizdlefs-natthaponsrihaw) - A scissor paper rock game using R fundamental.
 
 [Chatbot_Pizza.r ](https://replit.com/join/ipapozjjwh-natthaponsrihaw)- A chat bot of a pizza restaurant using R fundamental.
 
