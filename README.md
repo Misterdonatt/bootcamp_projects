@@ -25,7 +25,7 @@ web_scraping_with_R.ipynb - Webscraping static websites (top 50 imdb movies by r
 
 diamond_eda_ggplot.pdf - Did EDA on diamonds data using tidyverse, and also created some visualization using ggplot.
 
-Homework_Flights_exploring.ipynb - Explore the flight data with dplyr answering five questions.
+[Homework_Flights_exploring.ipynb](https://datalore.jetbrains.com/notebook/1lc0hN3adLJ0Bi88kUJQ5W/9Z9ZJTEgFJ9hopJawBrog6/) - Explore the flight data with dplyr answering five questions.
 
 Logistic_regression_titanic.ipynb - Building a model predicting whether the passenger will survive using logistic regression by R.
 
